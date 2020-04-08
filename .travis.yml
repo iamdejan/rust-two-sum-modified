@@ -1,0 +1,13 @@
+os: linux
+arch: amd64
+dist: bionic
+
+language: generic
+
+before_install:
+  - echo "Not implemented yet"
+  - exit 1
+
+install:
+  - echo "Not implemented yet"
+  - exit 1
