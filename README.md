@@ -1,6 +1,6 @@
-# Two Sum - Modified
+# [WIP] Two Sum - Modified
 
-<!-- TODO: Travis CI Badge -->
+[![Build Status](https://travis-ci.org/iamdejan/rust-two-sum-modified.svg?branch=master)](https://travis-ci.org/iamdejan/rust-two-sum-modified)
 
 This repository contains my solution from modified "Two Sum" problem.
 
@@ -28,7 +28,9 @@ You may not use the same element twice.
 
 ## My Solution
 
-My solution is located at `src/main.rs` file.
+Work in progress.
+
+<!--- My solution is located at `src/main.rs` file. -->
 
 ## How to Run The Tests
 
@@ -37,10 +39,12 @@ My solution is located at `src/main.rs` file.
 
 ### Run Tests
 
+Work in progress.
+<!---
 You can run from terminal:
 ```
 docker-compose up
 ```
-
+-->
 ## Authors
 - Giovanni Dejan - [iamdejan](https://github.com/iamdejan)

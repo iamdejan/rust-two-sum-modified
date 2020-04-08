@@ -4,6 +4,9 @@ dist: bionic
 
 language: generic
 
+services:
+  - docker
+
 before_install:
   - echo "Not implemented yet"
   - exit 1
