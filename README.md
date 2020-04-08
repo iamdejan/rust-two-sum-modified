@@ -31,12 +31,25 @@ in different pairs.
 Note: (0,4) and (4,0) are considered same,
 so the result contains only 1 of them.
 
-For example:
+Examples:
+
+Test Case #1
 numbers = [1,2,3,4,5,6,7,8]
 target = 6
 valid pairs = [(0,4),(1,3)] or [(3,1),(4,0)]
 invalid pairs 1 = [(2,2)]
 invalid pairs 2 = [(0,4), (4,0)]
+
+Test Case #2
+numbers = [2,7,11,5,3,6,9]
+target = 9
+valid pairs = [(0,1),(4,5)] or [(1,0),(5,4)]
+invalid pairs 1 = [(0,1),(1,0)]
+
+Test Case #3
+numbers = [1,2]
+target = 10
+valid pairs = none, print "no pairs found" instead
 ```
 
 ## My Solution
