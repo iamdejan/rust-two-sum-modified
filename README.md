@@ -31,8 +31,8 @@ in different pairs.
 For example:
 numbers = [1,2,3,4,5,6,7,8]
 target = 6
-valid pairs = [[1,5],[2,4]]
-invalid pairs = [[3,3]]
+valid pairs = [[0,4],[1,3]]
+invalid pairs = [[2,2]]
 ```
 
 ## My Solution
