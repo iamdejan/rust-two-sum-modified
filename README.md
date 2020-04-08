@@ -68,7 +68,8 @@ My solution is located at `src/main.rs` file.
 
 You can run from terminal:
 ```
-docker-compose up
+$ docker-compose build
+$ docker-compose up
 ```
 
 ## Authors
