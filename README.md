@@ -20,10 +20,19 @@ and you may not use the same element twice.
 ## Modified Problem Statement
 
 ```
-Given an array of integers, return all pairs
+Given an array of distinct integers,
+return indices of all pairs
 such that they add up to a specific target.
 
-You may not use the same element twice.
+You may not use same element in each pair.
+However, one element can be used multiple times
+in different pairs.
+
+For example:
+numbers = [1,2,3,4,5,6,7,8]
+target = 6
+valid pairs = [[1,5],[2,4]]
+invalid pairs = [[3,3]]
 ```
 
 ## My Solution
