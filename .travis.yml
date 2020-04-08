@@ -7,10 +7,5 @@ language: generic
 services:
   - docker
 
-before_install:
-  - echo "Not implemented yet"
-  - exit 1
-
 install:
-  - echo "Not implemented yet"
-  - exit 1
+  - docker-compose up
