@@ -54,8 +54,6 @@ valid pairs = none, print "no pairs found" instead
 
 ## My Solution
 
-Work in progress.
-
 My solution is located at `src/main.rs` file.
 
 ## How to Run The Tests
