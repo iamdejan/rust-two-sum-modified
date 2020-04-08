@@ -28,11 +28,15 @@ You may not use same element in each pair.
 However, one element can be used multiple times
 in different pairs.
 
+Note: (0,4) and (4,0) are considered same,
+so the result contains only 1 of them.
+
 For example:
 numbers = [1,2,3,4,5,6,7,8]
 target = 6
-valid pairs = [[0,4],[1,3]]
-invalid pairs = [[2,2]]
+valid pairs = [(0,4),(1,3)] or [(3,1),(4,0)]
+invalid pairs 1 = [(2,2)]
+invalid pairs 2 = [(0,4), (4,0)]
 ```
 
 ## My Solution
