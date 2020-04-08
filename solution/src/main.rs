@@ -40,7 +40,6 @@ fn get_all_two_sums(numbers: Vec<i32>, target: i32) -> Result<Vec<(usize, usize)
         }
     }
 
-    println!("before return = {:?}", pairs);
     if pairs.len() > 0 {
         return Ok(pairs);
     }
