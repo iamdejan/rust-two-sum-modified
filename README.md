@@ -1,4 +1,4 @@
-# [WIP] Two Sum - Modified
+# Two Sum - Modified
 
 [![Build Status](https://travis-ci.org/iamdejan/rust-two-sum-modified.svg?branch=master)](https://travis-ci.org/iamdejan/rust-two-sum-modified)
 
@@ -56,21 +56,20 @@ valid pairs = none, print "no pairs found" instead
 
 Work in progress.
 
-<!--- My solution is located at `src/main.rs` file. -->
+My solution is located at `src/main.rs` file.
 
 ## How to Run The Tests
 
 ### Prerequisites
 1) Docker
+2) Docker Compose
 
 ### Run Tests
 
-Work in progress.
-<!---
 You can run from terminal:
 ```
 docker-compose up
 ```
--->
+
 ## Authors
 - Giovanni Dejan - [iamdejan](https://github.com/iamdejan)
