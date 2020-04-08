@@ -5,9 +5,6 @@ for ((i = 1; i <= 3; i++)); do
 
   echo "Expected output:"
   cat output${i}-expected.txt
-
-  echo ""
-
   echo "Actual output:"
   cat output${i}-actual.txt
 
