@@ -54,7 +54,7 @@ valid pairs = none, print "no pairs found" instead
 
 ## My Solution
 
-My solution is located at `src/main.rs` file.
+My solution is located at `solution/src/main.rs` file.
 
 ## How to Run The Tests
 
